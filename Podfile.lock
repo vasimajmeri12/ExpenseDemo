@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.6)
+  - "UITextView+Placeholder (1.4.0)"
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - "UITextView+Placeholder"
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - "UITextView+Placeholder"
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  "UITextView+Placeholder": d7b0c400921f66523f3a85d74f774512e14f6502
+
+PODFILE CHECKSUM: f1f0e33b932639ebd5a24d9168dca8f9ab1f4225
+
+COCOAPODS: 1.11.2
